@@ -1,0 +1,11 @@
+{
+ "schema": 2,
+ "screen": {
+  "latest": "2.10.0",
+  "manifest": "screen/latest.json"
+ },
+ "scale": {
+  "latest": "1.3.0",
+  "manifest": "scale/latest.json"
+ }
+}
